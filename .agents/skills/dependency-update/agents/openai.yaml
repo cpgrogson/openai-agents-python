@@ -1,0 +1,4 @@
+model: o3
+tools:
+  - type: function
+    name: bash
